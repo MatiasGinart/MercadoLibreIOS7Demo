@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C3702B2-F851-44A2-96D5-F44E53A490B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSURLSessionTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>11FB44EA-AC0A-45C0-B237-07B77E69B88D</key>
+		<string>https://github.com/MatiasGinart/MercadoLibreIOS7Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSURLSessionTest/NSURLSessionTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>11FB44EA-AC0A-45C0-B237-07B77E69B88D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MatiasGinart/MercadoLibreIOS7Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>11FB44EA-AC0A-45C0-B237-07B77E69B88D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>11FB44EA-AC0A-45C0-B237-07B77E69B88D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MercadoLibreIOS7Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
